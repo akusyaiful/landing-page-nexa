@@ -38,3 +38,28 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## 1. Pendahuluan
+**Tujuan Aplikasi:** Untuk mengikuti tes teknis web programmer di NEXA
+**Lingkup Aplikasi:**
+  - Landing
+
+## 2. Tools
+**UI:**
+  - [Next JS](https://nextjs.org/)
+  - [Library Material UI](https://mui.com/)
+  - [Library Swiper React untuk carousel](https://swiperjs.com/react)
+
+## 3. Lampiran
+  - [Link Figma]([https://whimsical.com/website-developer-2024-B2GW7qAuxvV6ataQoEXKwH](https://www.figma.com/proto/tBuWH3yXnHf88ZH1vSL0TX/Sriboga-Flour-Mill?node-id=6-6&t=XCoEUqi8VZ8sLqMB-1&scaling=contain&content-scaling=fixed))
+  - Landing Page Desktop
+![Uploading localhost_3000_ (1) (1).png…]()
+
+  - Landing Page Mobile
+![localhost_3000_ (2)](https://github.com/user-attachments/assets/2a5d01c8-b367-4a0a-a6f5-a0c2c597e410)
+
+
+
+## 4. Issue
+- Tidak bisa custom icon navigation carousel, jadi menggunakan icon bawaan dari library swiper react.
+
